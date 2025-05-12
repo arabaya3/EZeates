@@ -1,0 +1,6 @@
+@EZeates_HostAddress = http://localhost:5237
+
+GET {{EZeates_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
