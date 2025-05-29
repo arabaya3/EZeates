@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EZeates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7233b892d93a2b620b5efab2c690d00a93a0ecf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EZeates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EZeates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

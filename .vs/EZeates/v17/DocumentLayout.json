@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\models\\order_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:models\\order_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\data\\ezeatesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:data\\ezeatesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\migrations\\20250517114926_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:migrations\\20250517114926_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\migrations\\20250529024916_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:migrations\\20250529024916_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|c:\\users\\unclepc\\source\\repos\\ezeates\\migrations\\20250529024254_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303DFCF8-CCCD-458A-A428-010EB50F9FC2}|EZeates.csproj|solutionrelative:migrations\\20250529024254_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "20250529024916_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250529024916_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250529024916_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250529024916_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20250529024916_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T20:04:05.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T02:49:17.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "20250517114926_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250517114926_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250517114926_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250517114926_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250517114926_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:43:21.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250529024254_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250529024254_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250529024254_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Migrations\\20250529024254_InitialCreate1.cs",
+              "RelativeToolTip": "Migrations\\20250529024254_InitialCreate1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:42:54.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T02:41:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T20:03:47.511Z"
+              "WhenOpened": "2025-05-29T02:40:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EZeatesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Data\\EZeatesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EZeatesDbContext.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Data\\EZeatesDbContext.cs",
+              "RelativeToolTip": "Data\\EZeatesDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:38:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:35:36.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order_Item.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Order_Item.cs",
+              "RelativeDocumentMoniker": "Models\\Order_Item.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Order_Item.cs",
+              "RelativeToolTip": "Models\\Order_Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:35:28.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:35:06.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Models\\Item.cs",
+              "ToolTip": "C:\\Users\\UnclePC\\source\\repos\\EZeates\\Models\\Item.cs",
+              "RelativeToolTip": "Models\\Item.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:37:44.511Z",
+              "EditorCaption": ""
             }
           ]
         }
